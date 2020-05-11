@@ -26,7 +26,7 @@ Github地址：https://github.com/764424567/Game_Parkour
 
 ### 二、导入资源
 资源已经上传到Github，需要的可以下载
-https://github.com/764424567/Unity-plugin/tree/master/ParkourDemo
+https://github.com/764424567/Unity-plugin/tree/master/Menu/Unity3D-ParkourDemoAssets
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200109102658617.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3E3NjQ0MjQ1Njc=,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200109102707491.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3E3NjQ0MjQ1Njc=,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200109102723508.png)
