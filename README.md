@@ -2,9 +2,8 @@
  Unity开发跑酷游戏
 
 ## 一、前言
-最近跑酷游戏比较流行，开发教程也很多，但是大部分都是不太详细，这篇文章就带着大家一步一步开发出来一个跑酷类的游戏，教程比较基础，适合大部分Unity开发的初学者。
-还有就是，此专栏已经开通收费，里面整合的都是小游戏的开发教程，想要学习Unity开发游戏的，都可以订阅一下。
-如果文章出现什么问题，就及时联系我
+这篇文章就带着大家一步一步开发出来一个跑酷类的游戏，教程比较基础，适合大部分Unity开发的初学者。
+
 ## 二、效果图&下载链接
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200109102238804.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3E3NjQ0MjQ1Njc=,size_16,color_FFFFFF,t_70)
 Github地址：https://github.com/764424567/Game_Parkour
